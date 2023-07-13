@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adilamarcelefreitas
-- 👀 I’m interested in learn about .js, html, css, and tecnology.
+- 👀 I’m interested in learn about .js, HTML, css, and tecnology.
 - 🌱 I’m currently learning Javascript, HTML and css.
 
 <!---
