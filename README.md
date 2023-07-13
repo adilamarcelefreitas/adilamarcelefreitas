@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adilamarcelefreitas
-- 👀 I’m interested in learn about coding, tecnology, books and anime!
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in learn about .js, html, css, and tecnology.
+- 🌱 I’m currently learning Javascript, HTML and css.
 
 <!---
 adilamarcelefreitas/adilamarcelefreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
