@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @adilamarcelefreitas
-- 👀 I’m interested in learn about .js, HTML, css, and tecnology.
-- 🌱 I’m currently learning Javascript, HTML and css.
+## Oi, eu sou a Ádila Freitas 😊
+- 🎒 Estudante para Desenvolvedora Front-End na Laboratória Brasil!
+- 🤓 Aprendendo JavaScript, html e css;
+- 😊 Pronomes: Ela/Dela
 
 <!---
 adilamarcelefreitas/adilamarcelefreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
