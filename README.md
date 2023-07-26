@@ -3,7 +3,7 @@
 
 - 🎒 Estudante para Desenvolvedora Front-End na Laboratória Brasil!
 - 🤓 Aprendendo JavaScript, html e css;
-- 😊 Pronomes: Ela/Dela
+
 
 
 
