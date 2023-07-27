@@ -1,4 +1,4 @@
-## Oi, eu sou Ádila Freitas e estou na minha jornada em me tornar uma desenvolvedora ✨
+## Oi, eu sou Ádila e estou na minha jornada em me tornar uma desenvolvedora ✨
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/27ef0d57bd65435ba7b60b803e33e4bf.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
 - 🔮 28 yrs;
