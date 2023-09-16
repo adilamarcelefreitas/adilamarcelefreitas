@@ -18,7 +18,7 @@ About Me 🚀
 - 🤓 Currently learning JavaScript, HTML5, and CSS3.
 
 <div align:"right"> 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/27ef0d57bd65435ba7b60b803e33e4bf.gif" width="200" height="200" border="0" alt="https://picasion.com/"></a><a href="https://picasion.com/"></a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/27ef0d57bd65435ba7b60b803e33e4bf.gif" width="200" height="200" alt="https://picasion.com/"/></a>
 </div>
   <!---
 adilamarcelefreitas/adilamarcelefreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
