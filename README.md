@@ -17,6 +17,8 @@ About Me 🚀
 - 🎨 Interfaces that are intuitive and beautiful, that's my thing!
 - 🤓 Currently learning JavaScript, HTML5, and CSS3.
 
+<img src="https://via.placeholder.com/100" alt="Gatinho em Pixel" width="100" height="100" />
+
 <div align="right"> 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/27ef0d57bd65435ba7b60b803e33e4bf.gif" width="200" height="200" alt="https://picasion.com/"/></a>
 </div>
