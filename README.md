@@ -1,7 +1,7 @@
 ## 
 ✨Olá, pessoal! Eu sou Ádila Freitas, uma estudante de Front-End de 28 anos.✨
 
-## Sobre Mim 🚀
+Sobre Mim 🚀
 
 - 🌆 Moro em uma cidade ensolarada chamada Salvador.
 - 🌐 Estou constantemente explorando o vasto mundo da web/livros/jogos/rpg.
@@ -10,6 +10,7 @@
   
 --------------------------------------------
 
+##
 ✨Hello, everyone! I'm Ádila Freitas, a nerd 28-year-old Front-End student.✨
 
 About Me 🚀
