@@ -1,4 +1,4 @@
-### Olá, pessoal! Eu sou Ádila, desenvolvedora web Front-End e tenho 28 anos.👋
+### Olá, eu sou Ádila! Desenvolvedora Front-End e tenho 28 anos.👋
 
 - 🌆 Moro em uma cidade ensolarada chamada Salvador. 
 - 🌐 Estou constantemente explorando e me divertindo com o vasto mundo da web/livros/jogos/rpg.
