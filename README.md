@@ -1,7 +1,7 @@
-### Olá, eu sou Ádila! Desenvolvedora de software Jr e tenho 29 anos.👋
+### Hi! I'm Ádila.👋
 
-- 🌆 Moro em uma cidade ensolarada chamada Salvador/BA. 
-- 🌐 Estou constantemente explorando e me divertindo com o vasto mundo da web/livros/jogos/rpg.
+- 🌆 I live in a sunny city called Salvador in Brazil. 
+- 🌐 I love books/RPG board games and nerds stuffs. 
 
 
 
